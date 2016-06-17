@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LoginExample</string>
+    <string name="title">Login Example </string>
+    <string name="user_name">User Name</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="user_name_hint">Please enter your user name</string>
+    <string name="password_hint">Please enter your password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="show_details">Show Detail</string>
+    <string name="internet_check">please check internet connection</string>
+    <string name="show_password">Show Password</string>
+    <string name="Forgot_Password">Forgot Password</string>
+    <string name="your_password">Your Password is </string>
+    <string name="remember_me">Remember Me</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="old_password">old password</string>
+    <string name="new_password">new password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="logout">LOG OUT</string>
+</resources>
